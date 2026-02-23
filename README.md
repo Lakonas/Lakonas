@@ -2,7 +2,7 @@
 
 17 years fixing other people's problems at TELUS. Now I build the tools.
 
-I spent nearly two decades doing Tier 2 wireless network support — diagnosing escalations, interpreting network data, and living inside enterprise platforms like BMC Remedy. I left during a company restructuring, completed Lighthouse Labs' web development bootcamp, and started building.
+I spent nearly two decades doing Tier 2 wireless network support — diagnosing escalations, interpreting network data, and living inside enterprise platforms like BMC Remedy. I left during a company restructuring , completed Lighthouse Labs' web development bootcamp, and started building.
 
 I'm not a career starter. I'm a career pivoter with deep domain knowledge in incident management and ITSM, and I write code that solves real problems.
 
