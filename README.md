@@ -36,4 +36,4 @@ I'm not a career starter. I'm a career pivoter with deep domain knowledge in inc
 
 ### Where to find me
 
-📧 bkatsoulis@outlook.com · 📍 Brantford, ON
+📧bill.katsoulis@rogers.com · 📍 Brantford, ON
